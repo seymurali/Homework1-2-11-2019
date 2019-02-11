@@ -21,5 +21,8 @@ Menfi terefi odur ki, JS kodlari olduqca boyukdur. Muxtelif cihazlarda ferqli is
 Istifadeci komputerindeki zererli kodu isletmek ucun istifade ede biler.Tehlukesizliye qarsi zeyifdir.
 
 
-ASP.NET Active Server Page. Adindan da gorunduyumu kimi Microsoft terefinden inkisaf etdirilen server terefli bir web gelistirme texnologiyasidir.
-.NET platformasi mohkem, miqyaslanan ve dagidilmis proqramlari yaratmaq ucun yeni bir
+ASP.NET Active Server Page. Adindan da gorunduyumu kimi Microsoft terefinden inkisaf etdirilen server terefli bir web gelistirme texnologiyasidir. (FRAMEWORK)
+.NET platformasi mohkem, miqyaslanan ve dagidilmis proqramlari yaratmaq ucun yeni bir ortam yaradan ve bu proqramlari yaradarken nezdindeki bir cox dilden birini sechme azadligi veren bir texnologiyadir.
+Ustunlukleri- Yuksek performans. Asp.net prograsdirmla dillerinden bagimsizdir. Veb proqramlasdirmani gelistirmek ucun 25 ve daha artiq proqramlasdirma dilini istifade etmek olar.Asp.net ile tekce veb proqramlar deyil mobil telefonlar ucunde proqramlama gelistirmek olar.
+Asp.net deki en meshur yeniliklerden biride yaddas sizmasi ve cokme qorumasidir.Asp.net bu xetalari avtomatik duzelderek istifadecileri veb sehifeye girisine imkan yaradir. .Net cercivesi 3400 artiq sinfi qurulusa malikdir ki Asp.net de .Netin bir parcasi olduguna gore veb tetbiqi kimi mumkunsuz bir sey gorunmur.Proqramlar ve html eyni sehifede deyil.
+Dezavanatji ise windows zeruriliyidir. Hosting#
