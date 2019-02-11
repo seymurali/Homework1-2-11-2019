@@ -1,9 +1,9 @@
 Assembly- Imperativ qrupa aiddir. Masin diline yaxin asagi seviyyeli dildir.
-Menfi- Cox setir kod ve uzun bir vaxt lazimdir bu dili yazmaq ucun. 
+Menfi- Oyrenilmesi cetindir. Cox setir kod ve uzun bir vaxt lazimdir bu dili yazmaq ucun. Proqram yazarken mikroislemci ic qurulusunu bilmek vacibdir.Yazilan proqram istifade olunan mikroislemcinin qurulusuna baglidir. Mikroislemci sadece masin dilinden basa dusuler. 
 Bir mikroprosessor ucun yazilan program digerinde islemeye biler
 Kodlarin hansi setirinin ne is gorduyunu gec basa dusmek olur ona gore her setirin altinda commit elave etmek yaxsi olardi.
 Musbet- prosessor gucunu en yaxsi sekilde ortaya qoyacaq tek dildir. Cox az yer tutur. Yaxsi oyrenildikde diger dillerde 
-olan problemi bu dilde rahat hell etmek olar.
+olan problemi bu dilde rahat hell etmek olar. 
 
 C- Imperativ dil qrupuna aiddir. UNIX ucun bu dil B dilinin bazasindan istifade edilerek inkisaf etdirilmisdir. 
 Unix sistemi c dili ile gelistirilmisdir.
