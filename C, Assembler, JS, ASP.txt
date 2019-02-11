@@ -10,6 +10,7 @@ Unix sistemi c dili ile gelistirilmisdir.
 Unix-in ilk versiyasi Assembler dili ile yazilmishdir. C-Orta seviyeli bir dildir.
 uzun proqramlar yazmaq ucun rahat ve effektiv dildir. Assembler dilinden ferqi assembler bir komputer uzerinde calisirsa c dili
 bir cox sistemde calisa bilir.
+C-dili ile driver, grafik ve oyun, robot, isletim sistemi, hesablama platformasi ve s hazirlamaq olar
 
 JavaScript Brendan Eich terefinden yaradilan, Netscape firmasinin 95 illerinde gelistirdiyi obyekt yonumlu, 
 web sehifeni dinamik (interaktiv) eden bir dildir.  Js ile html sehifelerini duzelde biler, bu sayede suretli bir veb sehife hazirlamaq olar.
